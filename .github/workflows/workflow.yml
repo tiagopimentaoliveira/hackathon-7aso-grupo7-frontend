@@ -19,5 +19,5 @@ jobs:
           run: npm install
         - name: Build
           run: npm run build
-        - name: Unit Teste
-          run: npm test
+##        - name: Unit Teste
+##         run: npm test
